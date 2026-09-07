@@ -3,7 +3,7 @@
 <p align="left">
   <a href="mailto:t55300354@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%ED%97%88-807a1631b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="BLOG_URL"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=blogger&logoColor=white"/></a>
+  <a href="https://jskridev.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5D01?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
 ### Platforms & Languages
