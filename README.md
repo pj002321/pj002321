@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
+### Certifications
+- 🏅 ADSP (데이터분석 준전문가) — 한국데이터산업진흥원
+
 <p align="left">
   <img src="https://img.shields.io/github/followers/pj002321?style=flat-square&logo=github&label=followers"/>
   <img src="https://img.shields.io/github/last-commit/pj002321/pj002321?style=flat-square&label=last%20commit"/>
