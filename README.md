@@ -33,9 +33,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-psi-fawn.vercel.app/api?username=pj002321&show_icons=true&theme=default" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pj002321" />
+  <img src="https://img.shields.io/github/followers/pj002321?style=flat-square&logo=github&label=followers"/>
+  <img src="https://img.shields.io/github/last-commit/pj002321/pj002321?style=flat-square&label=last%20commit"/>
 </p>
