@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-gules.vercel.app/api?username=pj002321&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-psi-fawn.vercel.app/api?username=pj002321&show_icons=true&theme=default" />
 </p>
 
 <p align="left">
