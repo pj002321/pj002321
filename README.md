@@ -1,13 +1,13 @@
-<p align="center">👋, Hi there! I'm AI Developer, previously a Game Developer — now deep diving into AI, learning and applying it in real projects</p>
+<p align="left">👋, Hi there! I'm AI Developer, previously a Game Developer — now deep diving into AI, learning and applying it in real projects</p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:t55300354@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="BLOG_URL"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=blogger&logoColor=white"/></a>
 </p>
 
 ### Platforms & Languages
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
@@ -22,7 +22,7 @@
 </p>
 
 ### Tools
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
@@ -32,10 +32,10 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pj002321&show_icons=true&theme=default" />
+<p align="left">
+  <img src="https://github-readme-stats-eight-gules.vercel.app/api?username=pj002321&show_icons=true&theme=default" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pj002321" />
 </p>
